@@ -16,7 +16,7 @@ An interactive, agent-based epidemic simulation built with Streamlit. This proje
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/Simple-Epidemic.git
+git clone https://github.com/Acteus/Simple-Epidemic
 cd Simple-Epidemic
 ```
 
